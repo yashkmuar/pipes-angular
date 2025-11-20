@@ -11,4 +11,5 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected readonly title = signal('Code step by step');
   date = new Date();
+  amount = 10;
 }
