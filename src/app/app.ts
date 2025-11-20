@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('pipes-angular');
+  protected readonly title = signal('Code step by step');
 }
